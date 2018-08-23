@@ -1,0 +1,38 @@
+Initialize engine version: 5.4.2f2 (b7e030c65c9b)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce 830M (ID=0x1340)
+    Vendor:   NVIDIA
+    VRAM:     2010 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: E:\Program\Timberjack\Release\Demo_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading E:\Program\Timberjack\Release\Demo_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: E:\Program\Timberjack\Release\Demo_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading E:\Program\Timberjack\Release\Demo_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: E:\Program\Timberjack\Release\Demo_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading E:\Program\Timberjack\Release\Demo_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: E:\Program\Timberjack\Release\Demo_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading E:\Program\Timberjack\Release\Demo_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.084 seconds
+Platform assembly: E:\Program\Timberjack\Release\Demo_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: E:\Program\Timberjack\Release\Demo_Data\Managed\System.dll (this message is harmless)
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 0.967119 ms
+版本号:1.1.1a
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+利润:6 第17局77
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+验证游戏结果
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 3c0 -> priority: 1 

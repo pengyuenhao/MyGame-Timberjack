@@ -1,0 +1,1 @@
+adb install port.apk
